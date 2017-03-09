@@ -1,0 +1,48 @@
+a:link{
+
+	text-decoration: none;
+}
+a:unvisited{
+
+	color:blue;
+	text-decoration: none;
+}
+a:visited{
+
+	color:purple;
+	text-decoration: none;
+}
+
+a:hover{
+
+	color:green;
+	text-decoration: underline;
+
+}
+ol{
+
+	border: solid;
+	background-color: rgb(186,183,183);
+	border-width: 1px
+
+
+}
+#list{
+
+	width: 200px
+}
+
+p{
+	font-family: "Baskerville Old Face"
+	font-weight:13px;
+}
+
+h1{
+	font-family: Helvetica;
+
+}
+
+#HTML{
+
+	width: 550px
+}
